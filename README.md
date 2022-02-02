@@ -1,6 +1,6 @@
 # Docker Labs
 
-(https://labs.play-with-docker.com/)[https://labs.play-with-docker.com/]
+[https://labs.play-with-docker.com/](https://labs.play-with-docker.com/)
 
 ## Copiar dentro do console do labs
 
